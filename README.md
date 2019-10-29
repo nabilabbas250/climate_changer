@@ -122,6 +122,9 @@ I did not include the distribution of topic appearances on a per class basis bec
 ## Takeaways
 The classifier, although not fully optimal, serves the purpose of the project task.  Topic Modeling grouped key words into relevant topic groups allowing for the topics to group the Twitter text data.
 ## Future Consideration
+
+My notebooks and files for this project are still being cleaned and will be uploaded shortly.
+
 - Finish data wrangling and fit Recommender.
 - Find content to recommend for the Recommender.
 - Compile Front End using Flask or Streamlit.
@@ -132,5 +135,5 @@ The classifier, although not fully optimal, serves the purpose of the project ta
 
 ## Sources
 
-- Pushshift.io
-- Twint
+- **Reddit** via Pushshift.io
+- **Twitter** via Twint
