@@ -110,7 +110,7 @@ After using LDA to create topics the following were the topics that I came up wi
 
 You can view some of the more distinct topic word clouds below:
 
-![](/images/word_cloud.png)
+![](/images/word_clouds.png)
 
 The distribution of the topics amongst the ~5500 tweets grabbed from 500 users are as follows.
 
