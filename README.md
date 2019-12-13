@@ -37,7 +37,7 @@ Text from the **ClimateSkeptics** subreddit will fall under our "Climate Change 
 ***The Climate Change Denying classification will be our Positive class.***
 
 #### Topic Modeling
-Using Latent Dirichlet Allocatino (LDA), train a model to create 15 subtopics from the corpus of the subreddit comment text data.
+Using Latent Dirichlet Allocation (LDA), train a model to create 15 subtopics from the corpus of the subreddit comment text data.
 #### Processing Data for Recommender
 Use Twint Twitter webscraping tool to run a search on climate change discussions on Twitter and extract 10 climate change tweets per user for 500 users.  After cleaning the text data using NLP, run the trained classifier and topic modeler on the tweets to prepare the data for the recommender.
 
