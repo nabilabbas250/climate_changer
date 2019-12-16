@@ -13,6 +13,7 @@ The recommendation system is advanced because through the use of topic modeling 
 ## Tech Stack
 - Python
 - Pandas
+- NumPy
 - Textblob
 - SpaCy
 - NLTK
